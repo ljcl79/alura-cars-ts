@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+    "isElectric": false,
+    "image": "https://media.ed.edmunds-media.com/toyota/corolla/2022/oem/2022_toyota_corolla_sedan_le_fq_oem_1_500.jpg"
+  },
+  {
+    "id": "2",
+    "brand": "Fiat",
+    "model": "500",
+    "year": 2021,
+    "isElectric": false,
+    "image": "https://www.mad4wheels.com/img/free-car-images/desktop/18594/fiat-500-2021-614839.jpg"
+  },
+  {
+    "id": "3",
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2023,
+    "isElectric": false,
+    "image": "https://media.ed.edmunds-media.com/ford/mustang/2022/oem/2022_ford_mustang_convertible_gt-premium_fq_oem_1_500.jpg"
+  },
+  {
+    "id": "4",
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "year": 2022,
+    "isElectric": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg/1280px-2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg"
+  },
+  {
+    "id": "5",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "isElectric": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2019_Honda_Civic_coupe_%28facelift%29%2C_front_12.16.19.jpg/1280px-2019_Honda_Civic_coupe_%28facelift%29%2C_front_12.16.19.jpg"
+  },
+  {
+    "id": "6",
+    "brand": "Byd",
+    "model": "Han",
+    "year": 2023,
+    "isElectric": true,
+    "image": "https://cdn.motor1.com/images/mgl/9m4Bbv/s1/byd-han-dm-i-2025.jpg"
+  },
+  {
+    "id": "7",
+    "brand": "Tesla",
+    "model": "Model S",
+    "year": 2023,
+    "isElectric": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/20180630_Tesla_Model_S_70D_2015_midnight_blue_left_front.jpg"
+  },
+  {
+    "id": "8",
+    "brand": "Renault",
+    "model": "Clio",
+    "year": 2019,
+    "isElectric": false,
+    "image": "https://carros.inf.br/wp-content/uploads/2018/04/2017-renault-clio-0.jpg"
+  }
+]
