@@ -10,9 +10,9 @@ src/
 
 ├── components/
 
-│   ├── CarList.jsx (o .tsx en TypeScript)
+│   ├── CarList.tsx
 
-│   ├── AddCarForm.jsx (o .tsx en TypeScript)
+│   ├── AddCarForm.tsx
 
 ├── data/
 
@@ -22,6 +22,6 @@ src/
 
 │   └── App.css
 
-├── App.jsx (o .tsx en TypeScript)
+├── App.tsx
 
-└── main.jsx (o .tsx en TypeScript)
+└── main.tsx
